@@ -1,0 +1,7 @@
+[General]
+MaxIntensity=1200
+MinIntensity=200
+stepXmm=1
+stepYmm=1
+sizeXmm=20
+sizeYmm=20
